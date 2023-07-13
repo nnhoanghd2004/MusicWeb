@@ -1,0 +1,10 @@
+{
+    "playlist": [
+        {
+            "name": "Playlist 1",
+            "id": "1",
+            "path": "./mp3/DongVaAnh.mp3",
+            "img": "./img/DongVaAnh.webp"
+        }
+    ]
+}
